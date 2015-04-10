@@ -2,12 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>avthart.io</title>
-    <link>uildDrafts/</link>
+    <link>http://avthart.github.io/</link>
     <description>Recent content on avthart.io</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Albert van &#39;t Hart</copyright>
-    <atom:link href="uildDrafts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 10 Apr 2015 12:06:05 +0200</lastBuildDate>
+    <atom:link href="http://avthart.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Integration Testing With Spring Boot, Flyway and Docker</title>
+      <link>http://avthart.github.io/post/integration_testing_with_spring_boot_flyway_and_docker/</link>
+      <pubDate>Fri, 10 Apr 2015 12:06:05 +0200</pubDate>
+      
+      <guid>http://avthart.github.io/post/integration_testing_with_spring_boot_flyway_and_docker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://avthart.github.io/about/</link>
+      <pubDate>Fri, 10 Apr 2015 12:04:17 +0200</pubDate>
+      
+      <guid>http://avthart.github.io/about/</guid>
+      <description>&lt;p&gt;I work as Tech Lead / Architect at ENOVATION. In this role, I am responsible for leading one or more product development teams at ENOVATION.&lt;/p&gt;
+
+&lt;p&gt;As Tech Lead / Architect, I establish a technical vision with the development team(s) and work with developers to turn this vision into reality. Another important activity is research of new technologies and methodologies to find out how ENOVATION can develop better code more efficiently. I think effective collaboration and knowledge sharing is crucial for successful software development projects.&lt;/p&gt;
+
+&lt;p&gt;I am interested in domain-driven design, microservices, lean architecture, agile and test driven development, Enterprise Application Integration, noSQL databases and cloud platforms.&lt;/p&gt;
+
+&lt;p&gt;Thanks for reading my blog!&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>
