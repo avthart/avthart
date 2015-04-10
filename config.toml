@@ -1,6 +1,6 @@
-baseurl = "http://avthart.github.io/"
+baseurl = "http://avthart.nl/"
 languageCode = "en-us"
-title = "avthart.io"
+title = "avthart.nl"
 theme = "hyde"
 copyright = "Albert van 't Hart"
 canonifyurls = true
