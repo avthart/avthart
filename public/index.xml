@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>avthart.io</title>
-    <link>http://avthart.github.io/</link>
+    <link>uildDrafts/</link>
     <description>Recent content on avthart.io</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Albert van &#39;t Hart</copyright>
-    <atom:link href="http://avthart.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="uildDrafts/index.xml" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>
