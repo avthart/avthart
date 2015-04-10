@@ -3,6 +3,7 @@ languageCode = "en-us"
 title = "avthart.io"
 theme = "hyde"
 copyright = "Albert van 't Hart"
+canonifyurls = true
 
 [Author]
 	name = "Albert van 't Hart"
